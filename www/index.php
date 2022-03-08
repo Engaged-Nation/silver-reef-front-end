@@ -1,10 +1,10 @@
-<?php require_once __DIR__ . '/../../rampart-dv-portal/vendor/engaged-nation/portal-core/FrontEnd/Bootstrap/client-front-end.php'; ?>
+<?php require_once __DIR__ . '/../../silver-reef-portal/vendor/engaged-nation/portal-core/FrontEnd/Bootstrap/client-front-end.php'; ?>
 <!DOCTYPE html>
 <html lang="en" class="setTo100">
 
 <head>
     <title>HIGH ROLLIN' AT RAMPART</title>
-    <?php require_once __DIR__ . '/../../rampart-dv-portal/vendor/engaged-nation/portal-core/GoogleTagManager/Resources/public/gtm.php'; ?>
+    <?php require_once __DIR__ . '/../../silver-reef-portal/vendor/engaged-nation/portal-core/GoogleTagManager/Resources/public/gtm.php'; ?>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="description" content="Play fun, free games online to earn drawing entries and chances to win A High Roller VIP package, complimentary room nights, or a share of $10,000." />
@@ -41,7 +41,7 @@
             </div>
         </div>
     </div>
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=rampart-dv&client_id=63b23976615249effc6fead1e692edf9" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=silver-reef&client_id=db3cbbe43755cf834884738682044251" type="text/javascript"></script>
 
     <div id="en-footer-layout-container"></div>
     <div class="bottomGreenBorder"></div>
